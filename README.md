@@ -1,4 +1,4 @@
-# 🌟 Emanuel Bacalhau | Desenvolvedor FullStack
+# 🧑‍💻 Emanuel Bacalhau | Desenvolvedor FullStack
 
 Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um desenvolvedor com uma paixão imensa por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e eficientes que façam a diferença. Aqui você encontrará projetos que refletem minha jornada no universo da tecnologia e minha busca constante por aprendizado e aperfeiçoamento. 🚀👨‍💻
 
@@ -35,9 +35,11 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 
 ## 📈 Minhas Estatísticas no GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Emanuel Bacalhau">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&theme=radical&hide_border=false" alt="Contribuições consecutivas">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Emanuel Bacalhau" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&theme=radical&hide_border=false" alt="Contribuições consecutivas" height="180em">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="180em">
 </div>
 
 ---
