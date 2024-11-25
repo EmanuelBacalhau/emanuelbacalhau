@@ -1,7 +1,5 @@
 # 🌟 Emanuel Bacalhau | Desenvolvedor FullStack
 
-![Bem-vindo](https://img.shields.io/badge/Bem--vindo-ao%20meu%20perfil-blue?style=for-the-badge)
-
 Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um desenvolvedor com uma paixão imensa por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e eficientes que façam a diferença. Aqui você encontrará projetos que refletem minha jornada no universo da tecnologia e minha busca constante por aprendizado e aperfeiçoamento. 🚀👨‍💻
 
 ---
@@ -22,8 +20,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 
 ---
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias%20e%20Ferramentas-💻-blueviolet?style=for-the-badge)
-
 ## 🛠️ Tecnologias e Ferramentas:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -37,8 +33,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 
 ---
 
-![Estatísticas](https://img.shields.io/badge/📈%20Estatísticas%20do%20GitHub-3A3A3A?style=for-the-badge)
-
 ## 📈 Minhas Estatísticas no GitHub:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Emanuel Bacalhau">
@@ -47,8 +41,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 </div>
 
 ---
-
-![Visitas](https://img.shields.io/badge/🔥%20Contador%20de%20Visitas-F57373?style=for-the-badge)
 
 ## 🔥 Contador de Visitas:
 [![](https://visitcount.itsvg.in/api?id=EmanuelBacalhau&icon=5&color=6)](https://visitcount.itsvg.in)
