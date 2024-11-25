@@ -9,14 +9,14 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
 - 🎯 **Objetivo:** Aprimorar minhas habilidades em tecnologias modernas e colaborar em projetos inovadores.
 - 🌱 **Sempre aprendendo sobre:** Arquitetura de sistemas, boas práticas de programação, DevOps e tendências tecnológicas.
 - 🤝 **Aberto a:** Colaborações em projetos de código aberto, oportunidades de freelancing e parcerias profissionais.
-- 📫 **Contato:** [**Clique aqui**](mailto:seuemail@dominio.com) para me enviar um e-mail ou me encontre nas redes sociais abaixo.
+- 📫 **Contato:** [**Clique aqui**](mailto:carlosemanuelbatistabacalhau@gmail.com) para me enviar um e-mail ou me encontre nas redes sociais abaixo.
 
 ---
 
 ## 🌐 Onde Me Encontrar:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Bacalhau#1867) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bacalhau.dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-bacalhau-b97217243/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emanuelbacalhau_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/emanuel-bacalhau)
 
 ---
 
@@ -39,12 +39,6 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&theme=radical&hide_border=false" alt="Contribuições consecutivas">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas">
 </div>
-
----
-
-## 💡 Projetos em Destaque:
-- 🔗 [**Meu Projeto Principal**](https://github.com/EmanuelBacalhau/seu-projeto): Uma breve descrição do projeto mais interessante ou recente.
-- 📱 [**Aplicativo Mobile**](https://github.com/EmanuelBacalhau/outro-projeto): Descreva um projeto relevante e seu objetivo.
 
 ---
 
