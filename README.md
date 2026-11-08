@@ -1,56 +1,59 @@
-# 🧑‍💻 Emanuel Bacalhau | Desenvolvedor FullStack
-
-Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Emanuel Bacalhau, um desenvolvedor com uma paixão imensa por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e eficientes que façam a diferença. Aqui você encontrará projetos que refletem minha jornada no universo da tecnologia e minha busca constante por aprendizado e aperfeiçoamento. 🚀👨‍💻
-
----
-
-## 🚀 Sobre Mim:
-- 💡 **Atualmente trabalhando em:** Desenvolvimento web e mobile utilizando **React**, **Node.js** e **TypeScript**.
-- 🎯 **Objetivo:** Aprimorar minhas habilidades em tecnologias modernas e colaborar em projetos inovadores.
-- 🌱 **Sempre aprendendo sobre:** Arquitetura de sistemas, boas práticas de programação, DevOps e tendências tecnológicas.
-- 🤝 **Aberto a:** Colaborações em projetos de código aberto, oportunidades de freelancing e parcerias profissionais.
-- 📫 **Contato:** [**Clique aqui**](mailto:carlosemanuelbatistabacalhau@gmail.com) para me enviar um e-mail ou me encontre nas redes sociais abaixo.
-
----
-
-## 🌐 Onde Me Encontrar:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Bacalhau#1867) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emanuelbacalhau_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/emanuel-bacalhau)
-
----
-
-## 🛠️ Tecnologias e Ferramentas:
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/NoSQL-%23ea2b2b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 Minhas Estatísticas no GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Emanuel Bacalhau" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&theme=radical&hide_border=false" alt="Contribuições consecutivas" height="180em">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBacalhau&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="180em">
+
+# Emanuel Bacalhau
+
+**Dev full stack · Founder da [RivoCode](https://rivocode.com.br)**
+
+Sistemas, apps e automações com IA para empresas.
+
+[![Site](https://img.shields.io/badge/rivocode.com.br-0f1113?style=for-the-badge&logo=googlechrome&logoColor=d4f34a)](https://rivocode.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1113?style=for-the-badge&logo=linkedin&logoColor=d4f34a)](https://www.linkedin.com/in/emanuel-bacalhau/)
+[![Instagram](https://img.shields.io/badge/Instagram-0f1113?style=for-the-badge&logo=instagram&logoColor=d4f34a)](https://www.instagram.com/emanuel.bacalhau/)
+[![E-mail](https://img.shields.io/badge/E--mail-0f1113?style=for-the-badge&logo=gmail&logoColor=d4f34a)](mailto:carlosemanuelbatistabacalhau@gmail.com)
+
 </div>
 
 ---
 
-## 🔥 Contador de Visitas:
-[![](https://visitcount.itsvg.in/api?id=EmanuelBacalhau&icon=5&color=6)](https://visitcount.itsvg.in)
+### O que eu faço
+
+- Construo **sistemas sob medida, apps e SaaS**, do zero ao deploy.
+- Coloco **IA no processo** das empresas: agentes de atendimento, automações e leitura de documentos.
+- Falo de **IA na prática, pra devs e empresas**, no [Instagram](https://www.instagram.com/emanuel.bacalhau/).
+
+### Agora
+
+- 🏗️ Construindo produtos e projetos de clientes na **RivoCode**
+- 🤖 Me aprofundando em agentes de IA, Claude Code e arquitetura hexagonal
+- 🎓 Sistemas de Informação na UniFacisa
+
+### Stack
+
+```ts
+const stack = {
+  linguagens: ["TypeScript", "JavaScript", "SQL"],
+  front: ["React", "Next.js"],
+  back: ["Node.js", "Bun", "Elysia", "Hono", "NestJS"],
+  dados: ["PostgreSQL", "Drizzle", "MongoDB", "Zod"],
+  infra: ["Docker", "Cloudflare Workers", "Git"],
+  ia: ["Claude API", "Claude Code"],
+};
+```
+
+### Destaque
+
+**[nestjs-from-scratch](https://github.com/EmanuelBacalhau/nestjs-from-scratch)**: um mini-NestJS feito do zero, com container de injeção de dependência tipado, arquitetura hexagonal (ports & adapters) e rotas por decorators em Bun + Elysia + Zod.
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&background=0f1113&ring=d4f34a&fire=d4f34a&currStreakLabel=d4f34a&sideLabels=ecede9&currStreakNum=ecede9&sideNums=ecede9&dates=8b9199&stroke=24292e&hide_border=true" alt="Sequência de contribuições de Emanuel Bacalhau" height="170">
+
+</div>
 
 ---
 
-> 🌟 *"A tecnologia é um superpoder, e a programação é a chave para desbloqueá-lo!"*
+<div align="center">
 
----
+**Quer colocar IA no processo da sua empresa?** [Me chama no e-mail](mailto:carlosemanuelbatistabacalhau@gmail.com) ou em [rivocode.com.br](https://rivocode.com.br).
 
-**Gostou do meu perfil?** Não se esqueça de deixar uma estrela nos repositórios que achar interessante! ⭐
+</div>
