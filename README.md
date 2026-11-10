@@ -40,10 +40,6 @@ const stack = {
 };
 ```
 
-### Destaque
-
-**[nestjs-from-scratch](https://github.com/EmanuelBacalhau/nestjs-from-scratch)**: um mini-NestJS feito do zero, com container de injeção de dependência tipado, arquitetura hexagonal (ports & adapters) e rotas por decorators em Bun + Elysia + Zod.
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelBacalhau&background=0f1113&ring=d4f34a&fire=d4f34a&currStreakLabel=d4f34a&sideLabels=ecede9&currStreakNum=ecede9&sideNums=ecede9&dates=8b9199&stroke=24292e&hide_border=true" alt="Sequência de contribuições de Emanuel Bacalhau" height="170">
